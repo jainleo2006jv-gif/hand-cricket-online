@@ -43,4 +43,4 @@ After uploading to GitHub, enable **GitHub Pages**:
 Your site will be live at:
 
 ```bash
-https://YOUR-USERNAME.github.io/hand-cricket-online/
+(https://jainleo2006jv-gif.github.io/hand-cricket-online/)
